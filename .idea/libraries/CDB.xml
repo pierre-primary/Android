@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CDB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Common/libs/CDB.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

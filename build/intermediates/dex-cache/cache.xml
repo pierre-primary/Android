@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dee0a0dfcd257d241b32443dca090695b4919a8b">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-8120f46045452dfd105610687ea08995481edb9e.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e275efd77b4f542efeea07c16e1c3e0d9149e156">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-21aa12fee4d0cc5bb517bf6b155b375395449291.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\fastjson-1.1.23.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ef04ec620624a71d05372f1335e4264577def71e">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\fastjson-1.1.23-2f4927df66a1721d93f614a2ab27eb8dc5ba3cbe.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dee0a0dfcd257d241b32443dca090695b4919a8b">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-3d5b681e8d106e7e38af5b42041a0aeac9bcf268.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="421b5a9007591734e9226ce37b471a3729b6158b">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-75c34709af4c276d322b3861a07bc6b69414dffb.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-9d0e357525c4e28662ce6dfbe78dae286277df8e.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\jackson-annotations-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6bb52af09372d5064206d47d7887d41671f00f7d">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.2-35c86c7fa088b111db3e45c944c1f671930dbcb0.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\jackson-databind-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\jackson-databind-2.4.2-a9794bbd620fabb3cfbbad7884545af6796c7fb4.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\CDB.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cea605109d11fb03626f33681df4f238ab3441cb">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\CDB-df20402955fc854e44379f8d5512542289ffa8d9.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\libs\commons-lang3-3.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66f13681add50ca9e4546ffabafaaac7645db3cf">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\commons-lang3-3.2.1-cc0032f562861d75a9fb9e68093336a921885283.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\com.facebook.fresco\drawee-volley\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a29f496d61df1c66fdf77365a61540de51242194">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-4ec46cc26242f9284e015559871575040703464e.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cee3e266046a765dfffb1eab9ddca5473dbf7ac6">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-955c5fca8651364b411fbc7917c7a67ee00d2b7c.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\httpmime-4.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\httpmime-4.3-1047ea9a286f19a6adb0e4cd6fe3e417e542bf20.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0adc1cd00d596f6ae05e5608117ed014a3dea15c">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-b324854c162465dd645b148abd431b5ba853a147.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="421b5a9007591734e9226ce37b471a3729b6158b">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-34b0257aed57c2b7d25bbb7a12a85d75c3961362.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\jackson-core-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\jackson-core-2.4.2-c98e12411a30ef9b8f0884afe41ca6dc6d68342f.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\httpmime-4.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\httpmime-4.3-5de88bbb3f25302ad2f94cb25d25d347dc07df12.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-3e06de39ad12d158f3c5ee28169e756e7b54ce80.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-7a41cdf7340c13013b7e902a9106e4390be1ff10.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\httpclient-4.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="abe99a8183c7c154ba1fd0f4b6a3bd42ae67d115">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\httpclient-4.3-108cdc017c8d2a1efa5757ed5febe069bf8d6c39.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-22ba21f8a24e1b6f3da54f2dc98eaba04f8a83c7.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\jackson-core-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\jackson-core-2.4.2-3f56ce2bcbeb0337dea9b4479c6a20789c0c3a00.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\libs\commons-lang3-3.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66f13681add50ca9e4546ffabafaaac7645db3cf">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\commons-lang3-3.2.1-c98853a107c8ce5e645ed95f4b61da05a6c51ace.jar" />
+    </item>
+    <item
+        jar="C:\Users\xudong\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\jsr305-3.0.0-456400c34680d9cb9ac33f53062a0c334886e677.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\CDB.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cea605109d11fb03626f33681df4f238ab3441cb">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\CDB-bd48cb7b95e546ad531083e9f1e8af102a62bf31.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\com.facebook.fresco\drawee-volley\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a29f496d61df1c66fdf77365a61540de51242194">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-621c4fe12dec45e0f6b2541cc9251ef9f4e6edb5.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\fastjson-1.1.23.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ef04ec620624a71d05372f1335e4264577def71e">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\fastjson-1.1.23-fe9cf629720284c72b79f533be4b74bb3ebde9f4.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-3cb036f9385e697f196eeb8bb1030032f3bade5d.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9d4c235b4a2f90e5d69cb7f64026f91f29765e16.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-39bce732b46b66c4fd2e7f65299258406811e606.jar" />
+    </item>
+    <item
+        jar="C:\Users\xudong\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\javax.annotation-api-1.2-30abc0d89c48ee37e83977a47fc92aead249a49c.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\jackson-databind-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\jackson-databind-2.4.2-a7ebdf662f58dbf39b4f8f9dc5db28cf71ed84e3.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\jackson-annotations-2.4.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6bb52af09372d5064206d47d7887d41671f00f7d">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.2-919fc1ddcd4c91e46e9d96be91a7d2b515af1ba9.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-dce1af6eddb9891f2602417adbb07ab3573bb2c1.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\httpclient-4.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="abe99a8183c7c154ba1fd0f4b6a3bd42ae67d115">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\httpclient-4.3-4b77c1c6e6629b0c75096407e5e17c4d71ddbed6.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cee3e266046a765dfffb1eab9ddca5473dbf7ac6">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-4728b38545cf581710a6f6d908551434610a72a8.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\Android\Common\unspecified\libs\httpcore-4.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8dfd6286d04ad9dbf26cdf7d4ef5c8fad430cf30">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\httpcore-4.3-022d24e7649346c76b1135d986b7ed5e65530026.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\classes-36f1d3629eae3baa2903347f01222b868def0c42.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\exploded-aar\Android\Common\unspecified\libs\httpcore-4.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8dfd6286d04ad9dbf26cdf7d4ef5c8fad430cf30">
+        <dex dex="D:\android\Projects\OTP.App\Android\WeTrip\build\intermediates\pre-dexed\debug\httpcore-4.3-b468295a9f310dede665c01a20db43e29b30b127.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-68e1e32066a2a916bd9b81eee3440251073574fb.jar" />
+    </item>
+    <item
+        jar="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\android\Projects\OTP.App\Android\apitest\build\intermediates\pre-dexed\debug\classes-83b6b2e2eb330c0a1e817abed880430c82027062.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <CalendarView
+        android:id="@+id/calender"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusedMonthDateColor="@color/cxd_green"
+        android:selectedDateVerticalBar="@color/cxd_green"
+        android:selectedWeekBackgroundColor="@color/cxd_alpha"
+        android:showWeekNumber="false"
+        android:unfocusedMonthDateColor="@color/cxd__login_userinfo"
+        />
+
+</LinearLayout>

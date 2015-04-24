@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android.iml" filepath="$PROJECT_DIR$/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fresco/Fresco.iml" filepath="$PROJECT_DIR$/Fresco/Fresco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Volley/Volley.iml" filepath="$PROJECT_DIR$/Volley/Volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apitest/apitest.iml" filepath="$PROJECT_DIR$/apitest/apitest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fresco/drawee/drawee.iml" filepath="$PROJECT_DIR$/Fresco/drawee/drawee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fresco/drawee-backends/drawee-backends.iml" filepath="$PROJECT_DIR$/Fresco/drawee-backends/drawee-backends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fresco/drawee-backends/drawee-volley/drawee-volley.iml" filepath="$PROJECT_DIR$/Fresco/drawee-backends/drawee-volley/drawee-volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fresco/fbcore/fbcore.iml" filepath="$PROJECT_DIR$/Fresco/fbcore/fbcore.iml" />
+    </modules>
+  </component>
+</project>
+

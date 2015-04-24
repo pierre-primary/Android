@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/trippackage__hotle_item_normal"
+              android:orientation="vertical"
+              android:layout_width="290dp"
+              android:layout_height="190dp"
+              android:layout_centerHorizontal="true"
+              android:layout_below="@+id/trippackage__line2"
+              android:background="@drawable/trippackage__hotle"
+              android:visibility="visible"
+              android:animationCache="true"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/trippackage__top">
+
+        <ImageView
+            android:layout_width="13.5dp"
+            android:layout_height="16.5dp"
+            android:src="@drawable/trippackage__common_up"
+            android:background="@null"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"/>
+
+        <ImageView
+            android:layout_width="12.5dp"
+            android:layout_height="11dp"
+            android:src="@drawable/trippackage__common_more"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/trippackage__titles">
+
+        <TextView
+            android:id="@+id/trippackage__title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/cxd__login_userinfo"
+            android:textSize="14dp"
+            android:text="桔子酒店.精选"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/trippackage__title"
+            android:textColor="@color/cxd__login_userinfo"
+            android:textSize="10dp"
+            android:text="(标准双床房)"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:id="@+id/trippackage__center">
+
+        <!--<include-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--layout="@layout/trivel__list_hotel_item_center"-->
+        <!--/>-->
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/trippackage__bottom">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="改签"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:textColor="#3BAEFF"
+            android:textSize="12dp"
+            android:background="@null"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="退单"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="25dp"
+            android:textColor="#999999"
+            android:textSize="12dp"
+            android:background="@null"
+            />
+    </RelativeLayout>
+
+</LinearLayout>

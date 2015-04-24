@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cxd__login">登陆</string>
+    <string name="cxd__title">唯游</string>
+    <string name="cxd__username">用户名</string>
+    <string name="cxd__username_hint">昵称/手机/邮箱号</string>
+    <string name="cxd__password">密码</string>
+    <string name="cxd__password_hint">昵称/手机/邮箱号</string>
+    <string name="cxd__index__local">上海</string>
+    <string name="cxd__index_msg">消息</string>
+    <string name="cxd__msg_count">3</string>
+    <string name="cxd__index_trip_package">超值游包</string>
+    <string name="cxd__index_grogshop">酒店直销</string>
+    <string name="cxd__index_more_grogshop">更多酒店</string>
+    <string name="cxd__index_hot_sport">热门景点</string>
+    <string name="cxd__index_trip_package_more">更多游包</string>
+    <string name="cxd__index_more_hot_sport">更多景点</string>
+    <string name="cxd__index_trip_package_trip_t1">门票全场5折起</string>
+    <string name="cxd__index_trip_package_trip_desc1">海南三亚五日游</string>
+    <string name="cxd__index_shops_title">星巴克</string>
+    <string name="cxd__index_shops_desc">开启您的星享之旅</string>
+    <string name="cxd__index_shops_body_desc">午餐优选三明治、加油加自己！！</string>
+    <string name="cxd__index_shops_more">更多商铺</string>
+
+
+    <string name="cxd__index_more_trip_package">游包</string>
+    <string name="cxd__index_more_grogshops">酒店</string>
+    <string name="cxd__index_more_ari_tick">机票</string>
+    <string name="cxd__index_more_tour_att">景点</string>
+    <string name="cxd__index_more_repast">餐饮</string>
+    <string name="cxd__index_more_local">附近</string>
+    <string name="cxd__index_more_more">更多</string>
+    <string name="cxd__index_more_rent_car">租车</string>
+    <string name="cxd__index_more_train">租车</string>
+    <string name="cxd__index_more_cruise">邮轮</string>
+    <string name="cxd__index_more_finance">金融</string>
+    <string name="cxd__index_more_calls">叫房</string>
+    <string name="cxd__index_more_only_pay">唯支付</string>
+    <string name="cxd__index_more_market">集市</string>
+    <string name="cxd__index_more_travel_notes">游记</string>
+    <string name="cxd__index_more_jnmj">锦囊妙计</string>
+    <string name="cxd__index_more_diy">DIY</string>
+    <string name="cxd__index_more_local_partners">当地伙伴</string>
+    <string name="cxd__index_more_go_partners">同行伙伴</string>
+
+    <string name="cxd__more_trip">旅游</string>
+    <string name="cxd__more_tools">工具</string>
+    <string name="cxd__more_add">添加服务到首页</string>
+
+    <string name="cxd__index_repast">餐饮</string>
+    <string name="cxd__index_more">更多餐饮</string>
+    <string name="cxd__index_entertainment">娱乐</string>
+    <string name="cxd__index_entertainment_more">更多娱乐</string>
+
+
+    <string name="cxd__index_city_in">国内</string>
+    <string name="cxd__index_city_out">境外</string>
+
+
+    <color name="cxd_alpha">#00000000</color>
+    <color name="cxd_haf_alpha">#32000000</color>
+    <color name="cxd_green">#6EC850</color>
+    <color name="cxd__index_bg">#F0F0F0</color>
+    <color name="cxd_white">#FFFFFF</color>
+    <color name="cxd__login_userinfo">#333333</color>
+    <color name="cxd__top_msg">#444444</color>
+    <color name="cxd__color_666666">#666666</color>
+    <color name="cxd__login_username_hint">#A6A6A6</color>
+    <color name="cxd__index_button_bg">#F9F9F9</color>
+    <color name="cxd__index_base_selector">#C9C9C9</color>
+    <color name="cxd__home_bottom">#616670</color>
+    <color name="cxd__home_bottom_select">#78D157</color>
+
+
+</resources>
